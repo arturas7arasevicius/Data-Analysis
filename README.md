@@ -1,2 +1,2 @@
 # Data-Analysis
-Here are my projects of data analysis
+Check the project section for more details.
